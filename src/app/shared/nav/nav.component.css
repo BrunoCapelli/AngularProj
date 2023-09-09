@@ -1,0 +1,11 @@
+
+.text-white{
+    color:white
+}
+.align-nav{
+    display: flex; 
+    justify-content: center;
+}
+.padding-top{
+    padding-top: 2%;
+}
